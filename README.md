@@ -1,5 +1,6 @@
 <h1 align="center"> Techguide Frontend </h1>
-<p align="center">Estudos sobre o Frontend with React </p>
+<p align="center">Guia pessoal de <b>Estudos </b> e <b>Revisão</b> sobre as principais tecnologias no  <b>Frontend </b>with <b> React</b> </p>
+<br /><br /><br />
 
 # Infraestrutura e Back-end
   - Babel,
@@ -21,8 +22,3 @@
   - SPA Micro Frontend
   - NEXT JS
   - VITE JS
-
-# UX e Design
-  - Figma
-  - Design Systems
-  - Components de Design
